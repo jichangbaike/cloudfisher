@@ -126,8 +126,8 @@
 
 渔云 CloudFisher 支持主流客户端，无需复杂配置，**订阅链接一键导入**：
 
-- Windows：Clash 
-- macOS：Clash / ClashX
+- Windows：Clash Verge / FlClash
+- macOS：Clash Verge / FlClash / ClashX
 - iOS：Shadowrocket / Stash / Surge
 - Android：Clash 
 - 订阅协议：通用订阅，可按区域策略分流
