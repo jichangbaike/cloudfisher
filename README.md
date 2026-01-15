@@ -1,5 +1,5 @@
 # 渔云（CloudFisher）官网注册入口说明与使用指南
-<img src="https://raw.githubusercontent.com/jichangbaike/cloudfisher/images/refs/heads/main/3523.jpg" alt="渔云（CloudFisher）">
+<img src="https://raw.githubusercontent.com/jichangbaike/cloudfisher/refs/heads/main/images/3523.jpg" alt="渔云（CloudFisher）">
 
 渔云（CloudFisher）是面向中国用户的网络加速服务商，通过多地区服务器与专用传输策略，提升跨境访问表现与流媒体体验。相较于短期促销型机场，渔云更强调稳定运营、套餐透明、可长期使用和多平台兼容，可以用来日常浏览、流媒体娱乐、跨境办公，还支持AI 工具访问。
 
@@ -128,9 +128,10 @@
 ### 5）**Horizon|地平线**— ¥**90.00**/年
 
 - 100 GB/月
-- **长期办公 + 稳定主力型**
-
-
+- 300Mbps 带宽
+- 最多 5 台设备
+- 赠送 EMBY 影视库
+- 轻量用户推荐
 
 > Tip：单人主力建议**Ripple 或 Wave**；多设备共享建议 **Tide**；备用建议 **Horizon**
 
@@ -147,6 +148,10 @@
 - 订阅协议：通用订阅，可按区域策略分流
 
 ------
+
+## 🌍 速度和流媒体测试
+
+<img src="https://raw.githubusercontent.com/jichangbaike/cloudfisher/refs/heads/main/images/3038.png">
 
 ## 👥 适用人群建议
 
