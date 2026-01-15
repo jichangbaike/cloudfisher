@@ -151,7 +151,7 @@
 
 ## 🌍 速度和流媒体测试
 
-<img src="https://raw.githubusercontent.com/jichangbaike/cloudfisher/refs/heads/main/images/3038.png">
+<img src="https://raw.githubusercontent.com/jichangbaike/cloudfisher/refs/heads/main/images/cloudfisher-test-20260115.png" alt="渔云（CloudFisher）">
 
 ## 👥 适用人群建议
 
