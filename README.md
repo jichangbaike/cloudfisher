@@ -254,5 +254,5 @@ https://finalto.xyz/3Y9g84
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-04-09`  
-- **Version:** `v1.0`
+- **Last Updated:** `2026-04-19`  
+- **Version:** `v1.1`
