@@ -7,7 +7,7 @@
 
 > 📌本仓库整理公开信息及使用说明，不提供账号/节点，仅供学习与参考，请以官网内容为准。
 > 
-> 📒更新时间：2026-04-09
+> 📒更新时间：2026-04-19
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -174,9 +174,9 @@ vvvip
 
 ## 🌍 速度和流媒体测试
 
-<img src="https://raw.githubusercontent.com/jichangbaike/cloudfisher/refs/heads/main/images/cloudfisher-test-20260409.png" alt="渔云（CloudFisher）">
+<img src="https://raw.githubusercontent.com/jichangbaike/cloudfisher/refs/heads/main/images/cloudfisher-test-20260419.png" alt="渔云（CloudFisher）">
 
-> 测试时间：2026-04-09,  网络情况：电信 2Gbps
+> 测试时间：2026-04-19,  网络情况：电信 2Gbps
 
 ## 👥 适用人群建议
 
