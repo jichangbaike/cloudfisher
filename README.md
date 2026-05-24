@@ -7,7 +7,7 @@
 
 > 📌本仓库整理公开信息及使用说明，不提供账号/节点，仅供学习与参考，请以官网内容为准。
 > 
-> 📒更新时间：2026-04-19
+> 📒更新时间：2026-05-24
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -61,7 +61,7 @@
 
 - 非低价拉新型
 - 不限设备
-- Secure 隧道传输策略
+- 海外中赚
 - 具备中国大陆与 IPv6 可用性承诺
 
 **3. 流媒体友好**
@@ -174,9 +174,9 @@ vvvip
 
 ## 🌍 速度和流媒体测试
 
-<img src="https://raw.githubusercontent.com/jichangbaike/cloudfisher/refs/heads/main/images/cloudfisher-test-20260419.png" alt="渔云（CloudFisher）">
+<img src="https://raw.githubusercontent.com/jichangbaike/cloudfisher/refs/heads/main/images/cloudfisher-test-20260524.png" alt="渔云（CloudFisher）">
 
-> 测试时间：2026-04-19,  网络情况：电信 2Gbps
+> 测试时间：2026-05-24,  网络情况：电信 2Gbps
 
 ## 👥 适用人群建议
 
@@ -254,5 +254,5 @@ https://finalto.xyz/3Y9g84
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-04-19`  
-- **Version:** `v1.1`
+- **Last Updated:** `2026-05-24`  
+- **Version:** `v1.2`
