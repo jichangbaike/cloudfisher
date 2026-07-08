@@ -18,7 +18,7 @@
 ------
 ## 🌍 渔云 CloudFisher 官网
 
-🔗 **渔云官网直达入口**：[https://cloudfisher.net/](#https://finalto.xyz/3Y9g84)
+🔗 **渔云官网直达入口**：[https://cloudfisher.net/](https://finalto.xyz/3Y9g84)
 
 > 如果无法连接，请切换网络环境。
 
@@ -174,7 +174,7 @@ vvvip
 
 ## 🌍 速度和流媒体测试
 
-<img src="https://raw.githubusercontent.com/jichangbaike/cloudfisher/refs/heads/main/images/cloudfisher-test-cloudfisher-test-20260708.png" alt="渔云（CloudFisher）">
+<img src="https://raw.githubusercontent.com/jichangbaike/cloudfisher/refs/heads/main/images/cloudfisher-test-20260708.png" alt="渔云（CloudFisher）">
 
 > 测试时间：2026-07-08,  网络情况：电信 2Gbps
 
@@ -234,7 +234,7 @@ vvvip
 
 ## 🔗 渔云官网注册入口
 
-👉 [https://cloudfisher.net/](#https://finalto.xyz/3Y9g84)
+👉 [https://cloudfisher.net/](https://finalto.xyz/3Y9g84)
 
 ------
 
