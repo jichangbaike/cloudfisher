@@ -18,7 +18,7 @@
 ------
 ## 🌍 渔云 CloudFisher 官网
 
-🔗 **渔云官网直达入口**：[https://cloudfisher.net/](https://finalto.xyz/3Y9g84)
+🔗 **渔云官网直达入口**：https://finalto.xyz/3Y9g84
 
 > 如果无法连接，请切换网络环境。
 
@@ -234,7 +234,7 @@ vvvip
 
 ## 🔗 渔云官网注册入口
 
-👉 [https://cloudfisher.net/](https://finalto.xyz/3Y9g84)
+👉 https://finalto.xyz/3Y9g84
 
 ------
 
